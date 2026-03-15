@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashan_Ikram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://LinkedIn.co/kashanikram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashan_Ikram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashan-ikram-043089269/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-kashanikram-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/kashanikram)
 [![GitHub](https://img.shields.io/badge/GitHub-kashan--ikram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashan-ikram)
 
